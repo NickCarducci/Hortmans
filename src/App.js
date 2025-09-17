@@ -333,7 +333,7 @@ export default function App() {
               individual, or provide instructions to contact employers for the
               purpose of retaliation.
               <br />* Imply criminal guilt where no public legal finding
-              exists. Violations of these prohibitions will result in removal of
+              exists.Violations of these prohibitions will result in removal of
               content, user suspension, and may be reported to law enforcement.
               6. Employer Contact / Public Conduct
               <br />* For clarity: we recognize that employers may lawfully act
