@@ -334,7 +334,7 @@ export default function App() {
               <br />* Imply criminal guilt where no public legal finding
               exists.Violations of these prohibitions will result in removal of
               content, user suspension, and may be reported to law enforcement.
-              6. Employer Contact / Public Conduct
+              <h3>6. Employer Contact / Public Conduct</h3>
               <br />* For clarity: we recognize that employers may lawfully act
               on information in the public domain under applicable law. That
               factual recognition is not a recommendation, instruction, or
@@ -488,3 +488,4 @@ export default function App() {
     </div>
   );
 }
+
