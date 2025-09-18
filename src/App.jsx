@@ -3,7 +3,11 @@ import React from "react";
 export default function App() {
   const [currentRoute, setRoute] = React.useState("home");
   return (
-    <div>
+    <div
+      style={{
+        fontFamily: "'Manrope', sans-serif",
+      }}
+    >
       <div>
         <header>
           <div>
@@ -426,9 +430,9 @@ export default function App() {
                         </span>
                       </li>
                       <li>Include the link to the post</li>
-                      <li>Attach a screenshot of the post</li>
+                      <li>Attach span screenshot of the post</li>
                       <li>
-                        Attach a second screenshot of the poster’s profile
+                        Attach span second screenshot of the poster’s profile
                       </li>
                     </ul>
                     <p>
