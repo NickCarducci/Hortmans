@@ -426,9 +426,9 @@ export default function App() {
                         </span>
                       </li>
                       <li>Include the link to the post</li>
-                      <li>Attach span screenshot of the post</li>
+                      <li>Attach a screenshot of the post</li>
                       <li>
-                        Attach span second screenshot of the poster’s profile
+                        Attach a second screenshot of the poster’s profile
                       </li>
                     </ul>
                     <p>
