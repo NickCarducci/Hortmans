@@ -1,8 +1,7 @@
-import "./styles.css";
-import { useState } from "react";
+import React from "react";
 
 export default function App() {
-  const [currentRoute, setRoute] = useState("home");
+  const [currentRoute, setRoute] = React.useState("home");
   return (
     <div>
       <div>
